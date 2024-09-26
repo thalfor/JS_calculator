@@ -40,11 +40,3 @@ It was quite interesting to create this because there were issues aparently smal
 
 ---
 
-## Next Steps
-
-To be added:
-
-- Store the historical data and being able to go back to a specific point in the calculation.
-- Create a scientific mode.
-- Create a financial mode.
-- Create a selector on which mode will be used.
